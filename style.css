@@ -1,0 +1,20 @@
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.white{
+    color: #fff;
+}
+.purple{
+    color: purple;
+}
+
+.border{
+    border: 2px solid black;
+}
+
+.bcg{
+    background-color: pink;
+}
